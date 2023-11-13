@@ -12,3 +12,5 @@ I'm incredibly excited to start this progam, as I used to enjoy tinkering around
 
 ### I'm entertaining the idea of Data Analytics but Computer Programing also peaks my interest.
 
+<U> Looking forward to meeting everone in the programs and gaining new skills. </U>
+
