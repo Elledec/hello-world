@@ -4,7 +4,7 @@
 
 IT'S ME
 ===============
-<br>Hello! My name is Elle Decker. </br>
+<b><br>Hello! My name is Elle Decker. </br></b>
 
 ### I currently live in Indiana and WFH for a company called Computershare. 
 I'm incredibly excited to start this progam, as I used to enjoy tinkering around with computers and <i>lightly</i> writing some code. I dreamed of making a career out of it, but lost touch and became a little intimidated along the way. 
