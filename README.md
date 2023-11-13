@@ -10,5 +10,5 @@ IT'S ME
 I'm incredibly excited to start this progam, as I used to enjoy tinkering around with computers and <i>lightly</i> writing some code. I dreamt of making a career out of it, but lost touch and became a little intimidated along the way. 
 <b>:)</b>
 
-### I'm entertaining the idea of Data Analytics but Comp Programing also peaks my interest.
+### I'm entertaining the idea of Data Analytics but Computer Programing also peaks my interest.
 
