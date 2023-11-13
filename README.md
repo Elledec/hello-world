@@ -1,5 +1,5 @@
 # hello-world
-<I>## A place to catch new ideas and build up future projects</i>
+<I> A place to catch new ideas and build up future projects</i>
 
 
 IT'S ME
